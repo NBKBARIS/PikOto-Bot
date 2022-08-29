@@ -3,7 +3,7 @@ export default function Privacy() {
     return (
         <div>
             <h1 className="font-semibold text-3xl text-white/75">PikOto Gizlilik Politikası</h1>
-            <p className="text-sm text-white/30 mb-4">Last Update: 20/05/2022  🆕️</p>
+            <p className="text-sm text-white/30 mb-4">Son Güncelleme: 20/05/2022  🆕️</p>
   <div className="animateHeader text-white text-opacity-40 mt-5">
         <p>⊳ PikOto botunu kullanmak için discord sunucunuza eklerken gerekli izinleri tanımlamanız gerekmektedir.
 . <a className="text-white">(READ MESSAGES, SEND MESSAGES, EMBED LINKS, ATTACH FILES, READ MESSAGE HISTORY, CONNECT, SPEAK, USE VOICE ACTIVITY, PRIORITY SPEAKER)</a></p>
